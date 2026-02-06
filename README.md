@@ -100,10 +100,9 @@ As visualizações dos resultados foram desenvolvidas **diretamente no notebook 
 
 A decisão de concentrar o dashboard no notebook foi intencional e baseada nos seguintes fatores:
 
-* O projeto também possui caráter **formativo**, e a centralização das análises facilita o acompanhamento lógico do raciocínio.
-* Evita fragmentação do projeto em múltiplas ferramentas, reduzindo possíveis confusões na avaliação.
-* Permite apresentar os resultados **de forma direta, clara e integrada** com a modelagem.
-* Garante que o foco permaneça na **resposta à pergunta norteadora**, atendendo plenamente aos requisitos do desafio.
+As visualizações e análises foram implementadas diretamente no notebook Jupyter por ser uma solução mais compacta e alinhada aos objetivos do desafio, permitindo apresentar de forma clara e concreta os resultados da modelagem de machine learning e seus impactos socioeconômicos.
+
+Além disso, considerando que estou em fase inicial de aprendizado na área, optei por priorizar o desenvolvimento, avaliação e interpretação dos modelos preditivos, garantindo maior consistência técnica na análise, em vez de investir tempo na utilização de ferramentas externas de dashboard. Ainda assim, as visualizações produzidas no notebook atendem adequadamente aos requisitos de interpretação e comunicação dos resultados.
 
 As visualizações têm como objetivo **facilitar a interpretação dos achados**, evidenciando padrões, tendências e relações relevantes.
 
